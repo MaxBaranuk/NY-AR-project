@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="video" size="1.000000 0.441545" />
+    <ImageTarget name="_L_16" size="1.000000 1.499110" />
+    <ImageTarget name="_O_5_staged1" size="1.000000 0.667984" />
+    <ImageTarget name="_L_15" size="1.000000 0.666667" />
+    <ImageTarget name="_L_14" size="1.000000 0.666667" />
+    <ImageTarget name="_L_13" size="1.000000 0.666667" />
+    <ImageTarget name="_L_12" size="1.000000 0.666667" />
+    <ImageTarget name="_L_11" size="1.000000 0.666667" />
+    <ImageTarget name="_L_10" size="1.000000 0.666667" />
+    <ImageTarget name="_L_9" size="1.000000 0.666667" />
+    <ImageTarget name="_L_8" size="1.000000 1.500000" />
+    <ImageTarget name="_L_7" size="1.000000 1.500000" />
+    <ImageTarget name="_L_6" size="1.000000 0.666667" />
+    <ImageTarget name="_L_5_Final" size="1.000000 0.666667" />
+    <ImageTarget name="_L_5" size="1.000000 0.666667" />
+    <ImageTarget name="_L_4" size="1.000000 1.500000" />
+    <ImageTarget name="_L_3" size="1.000000 1.500000" />
+    <ImageTarget name="_L_2" size="1.000000 0.666667" />
+    <ImageTarget name="_L_1" size="1.000000 0.666667" />
+  </Tracking>
+</QCARConfig>
