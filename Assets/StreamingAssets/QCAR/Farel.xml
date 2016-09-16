@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="videoTarget" size="10.000000 6.136752" />
+    <ImageTarget name="trigger_4" size="1.000000 0.625000" />
+    <ImageTarget name="Trigger_3" size="1.000000 0.640678" />
+    <ImageTarget name="Trigger_2" size="1.000000 1.333333" />
+    <ImageTarget name="Trigger_1" size="1.000000 1.278577" />
+    <ImageTarget name="360-8" size="1.000000 0.666667" />
+    <ImageTarget name="link13" size="1.000000 0.666667" />
+    <ImageTarget name="link12" size="1.000000 0.666667" />
+    <ImageTarget name="link11" size="1.000000 0.666667" />
+    <ImageTarget name="link04" size="1.000000 1.499531" />
+    <ImageTarget name="link03" size="1.000000 0.666667" />
+    <ImageTarget name="link02" size="1.000000 0.749167" />
+    <ImageTarget name="link01" size="1.000000 0.666667" />
+    <ImageTarget name="360-7" size="1.000000 0.666667" />
+    <ImageTarget name="360-6" size="1.000000 0.666667" />
+    <ImageTarget name="360-5" size="1.000000 0.666667" />
+    <ImageTarget name="360-4" size="1.000000 0.666667" />
+    <ImageTarget name="360-3" size="1.000000 0.666667" />
+    <ImageTarget name="360-2" size="1.000000 0.666667" />
+    <ImageTarget name="360-1" size="1.000000 0.666667" />
+    <ImageTarget name="privatMegler" size="1.000000 0.554130" />
+    <ImageTarget name="H5_Property_Trigger" size="10.000000 5.570417" />
     <ImageTarget name="video" size="1.000000 0.441545" />
     <ImageTarget name="_L_16" size="1.000000 1.499110" />
     <ImageTarget name="_O_5_staged1" size="1.000000 0.667984" />
