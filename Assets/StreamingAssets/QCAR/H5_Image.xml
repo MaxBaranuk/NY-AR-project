@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="trigger_4" size="1.000000 0.625000" />
+    <ImageTarget name="Trigger_3" size="1.000000 0.640678" />
+    <ImageTarget name="Trigger_2" size="1.000000 1.333333" />
+    <ImageTarget name="Trigger_1" size="1.000000 1.278577" />
+    <ImageTarget name="Screen_Shot_2016-08-19" size="1.000000 0.613675" />
+    <ImageTarget name="privatMegler_scaled" size="1.000000 0.552734" />
+    <ImageTarget name="H5_Property_Trigger" size="1.000000 0.557042" />
+    <ImageTarget name="150_Charles_St_3GS_O_5_staged1" size="1.000000 0.666667" />
+    <ImageTarget name="150_Charles_St_3GS_L_16" size="1.000000 1.500000" />
+    <ImageTarget name="150_Charles_St_3GS_L_15" size="1.000000 0.666667" />
+    <ImageTarget name="150_Charles_St_3GS_L_14" size="1.000000 0.666667" />
+    <ImageTarget name="150_Charles_St_3GS_L_13" size="1.000000 0.666667" />
+    <ImageTarget name="150_Charles_St_3GS_L_12" size="1.000000 0.666667" />
+    <ImageTarget name="150_Charles_St_3GS_L_11" size="1.000000 0.666667" />
+    <ImageTarget name="150_Charles_St_3GS_L_10" size="1.000000 0.666667" />
+    <ImageTarget name="150_Charles_St_3GS_L_9" size="1.000000 0.666667" />
+    <ImageTarget name="150_Charles_St_3GS_L_8" size="1.000000 1.500000" />
+    <ImageTarget name="150_Charles_St_3GS_L_7" size="1.000000 1.500000" />
+    <ImageTarget name="150_Charles_St_3GS_L_6" size="1.000000 0.666667" />
+    <ImageTarget name="150_Charles_St_3GS_L_5_Final" size="1.000000 0.666667" />
+    <ImageTarget name="150_Charles_St_3GS_L_5" size="1.000000 0.666667" />
+    <ImageTarget name="150_Charles_St_3GS_L_4" size="1.000000 1.500000" />
+    <ImageTarget name="150_Charles_St_3GS_L_3" size="1.000000 1.500000" />
+    <ImageTarget name="150_Charles_St_3GS_L_2" size="1.000000 0.666667" />
+    <ImageTarget name="150_Charles_St_3GS_L_1" size="1.000000 0.666667" />
+    <ImageTarget name="64_2116268326" size="1.000000 0.666667" />
+    <ImageTarget name="64_2079513069" size="1.000000 0.666667" />
+    <ImageTarget name="64_1980578239" size="1.000000 0.666667" />
+    <ImageTarget name="64_1948280284" size="1.000000 0.666667" />
+    <ImageTarget name="64_1714678951" size="1.000000 0.666667" />
+    <ImageTarget name="64_1547712579" size="1.000000 0.666667" />
+    <ImageTarget name="64_1413933743" size="1.000000 0.666667" />
+    <ImageTarget name="64_886838581" size="1.000000 0.666667" />
+    <ImageTarget name="64_552919645" size="1.000000 0.666667" />
+    <ImageTarget name="64_550991975" size="1.000000 0.666667" />
+    <ImageTarget name="64_531703301" size="1.000000 1.499531" />
+    <ImageTarget name="64_255878025" size="1.000000 0.666667" />
+    <ImageTarget name="64_182040181" size="1.000000 0.749167" />
+    <ImageTarget name="64_53430478" size="1.000000 0.666667" />
+  </Tracking>
+</QCARConfig>

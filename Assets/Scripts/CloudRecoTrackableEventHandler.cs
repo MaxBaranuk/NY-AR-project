@@ -85,6 +85,15 @@ public class CloudRecoTrackableEventHandler : MonoBehaviour, ITrackableEventHand
             case "h5-109-9.jpg":
                 OpenLink("https://www.privatmegleren.no/panorama/38160301/nordstrand-ljan-koselig-romantisk-og-familievennlig-enebolig-frodig-blomsterhage-2-3-s-rom-noe-moderniseringsbehov%23gallerimobil#solgt");
                 break;
+
+            case "teknotomta_front.jpg":
+            
+                OpenLink("http://byparkensyd.no");
+                break;
+            case "Screen-Shot-2016-09-17.jpg":
+            
+                OpenLink("http://one.h5property.com/areas/2");
+                break;
             default:
                 OpenLink("http://h5property.com/tour/stormcam/Margrethe%20Thomsetsvei%209/h5tour.html");
                 break;
